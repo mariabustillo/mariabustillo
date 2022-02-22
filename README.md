@@ -1,16 +1,16 @@
 ---
 ### :raised_hand: Hi, Welcome to my Profile!
 ![profile count](https://komarev.com/ghpvc/?username=mariabustillo&color=red)&nbsp;
-[![GitHub TimBstn](https://img.shields.io/github/followers/TimBstn?label=follow&style=social)](https://github.com/mariabustillo)&nbsp;
+[![GitHub mariabustillo](https://img.shields.io/github/followers/mariabustillo?label=follow&style=social)](https://github.com/mariabustillo)&nbsp;
 ---
 ### 🙋‍♀️ &nbsp;About Me 
 
 - 👋 Hi, I'm Maria Bustillo
 - 👁 I'm Interested on managing and analyzing data that help decisions-making.
-- 🌱 I’m currently pursuing a Master in Business Analytics at Hult International Business School. Learning and improving my knowledge on machine learning creating unsupervised and supervised algorithms, data science (Python, R, SQL) and data visualization (Tableau) .
+- 🌱 I’m currently pursuing a Master in Business Analytics at Hult International Business School. Learning and improving my knowledge on machine learning by creating unsupervised and supervised algorithms, data science (Python, R, SQL) and data visualization (Tableau) .
 - 📈 I love to learn and improve my skills and knowledge in all the things i'm passionate about. 
 - 👯 I’m looking to collaborate on business problems using data analysis to help on the decision-making of a company. 
-- 📫 You can reach me by sending me an email to : mcbustillofer@gmail.com or on linkedIn: https://www.linkedin.com/in/mariabustillof/
+- 📫 You can reach me by sending me an email to : mcbustillofer@gmail.com or on linkedIn:https://www.linkedin.com/in/mariabustillof/
 
 ---
 ### 🛠 &nbsp;Technical Skills
