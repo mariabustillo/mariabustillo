@@ -23,4 +23,7 @@
 ![Tableau](https://img.shields.io/badge/-Tableau-97627?logo=tableau&logoColor=white&style=plastic)&nbsp;
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white)&nbsp;
 
-
+---
+### 📞 Reach out to me!
+<a href="https://www.linkedin.com/in/mariabustillof/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:mcbustillofer@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Mail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
